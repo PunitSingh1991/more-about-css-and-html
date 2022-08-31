@@ -1,0 +1,47 @@
+header {
+    background-color: aqua;
+
+
+}
+h1 {
+    color: darkred;
+    font-size: 70px
+
+}
+body{
+    background-color: pink;
+}
+.box {
+    background-color: brown;
+    width: 400px;
+    height: 250px;
+    padding: 20px;
+    border: 2px dotted black;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: -3px -3px 6px 2px rgba(0,0,0,0.7), 6px 6px 12px yellow ;
+    
+
+}
+span {
+    display: inline-block;
+    background-color: blue;
+    width: 400px;
+    height: 280px;
+    padding: 20px;
+    border: 10px solid black;
+    font-size: 20px;
+    box-sizing: border-box;
+     }
+.circle {
+    height: 450px;
+    width: 450px;
+    background-color: #bbb;
+    border-radius: 50%;
+    padding: 30px;
+    border: 5px dotted darkgreen;
+    margin: 100px;
+    box-shadow: -3px -3px 6px 3px black;
+    font-size: 30px;
+}     
+     

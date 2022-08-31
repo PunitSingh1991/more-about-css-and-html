@@ -1,0 +1,48 @@
+header {
+    background-color: aqua;
+
+}
+h1 {
+    color: darkred;
+    font-size: 70px;
+    border: 1px solid red;
+    background-color: #d18c1d;
+}
+.btn {
+    font-size: 24px;
+}
+.btn-success {
+    background-color: green;
+}
+.btn-error {
+    background-color: red;
+}
+.subject p {
+    font-size: 35px;
+    background-color: green;
+}
+.subject p.object {
+    font-size: 35px;
+    background-color: yellow;
+}
+.capital p {
+    color: white;
+    background-color: black;
+    font-size: 35px;
+}
+.capital p.heading {
+    font-size: 35px;
+    background-color: red;
+}
+.pending {
+    font-size: 40px;
+    background-color: red;
+}
+.success {
+    font-size: 40px;
+    background-color: green;
+}
+footer {
+    background-color: yellow;
+    font-size: 40px;
+}
